@@ -67,7 +67,7 @@ jQuery(document).ready(function($) {
     
     
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
-    GitHubActivity.feed({ username: "lisigg1998", selector: "#ghfeed" });
+    GitHubActivity.feed({ username: "JoshuaFluke", selector: "#ghfeed" });
 
 
 });
